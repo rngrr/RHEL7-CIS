@@ -173,7 +173,6 @@ This sample playbook should be run in a folder that is above the main RHEL7-CIS 
     - RHEL7-CIS
 ```
 
-
 Tags
 ----
 Many tags are available for precise control of what is and is not changed.
@@ -189,5 +188,4 @@ License
 -------
 
 MIT
-
 04052019 - New User Test
