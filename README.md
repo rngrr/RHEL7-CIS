@@ -188,5 +188,5 @@ Some examples of using tags:
 License
 -------
 
-MIT
+MIT`
 04052019 - New User Test
